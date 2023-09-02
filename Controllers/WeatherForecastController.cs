@@ -29,4 +29,14 @@ public class WeatherForecastController : ControllerBase
         })
         .ToArray();
     }
+    public class DataModel {
+        public string Foobar { get; set; }
+    }
+    [HttpPost]
+    public ActionResult DoStuff([FromBody] DataModel foo) 
+    {
+        Console.WriteLine("In endpoint");
+        Console.WriteLine(foo.Foobar);
+        return Ok();
+    }
 }
