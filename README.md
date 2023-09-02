@@ -10,6 +10,7 @@ The commit `84f81d4e57a9a82aca37d0007e6125462b386e7b` on master demonstrates a s
 - [ASP.NET core middleware](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/middleware/?view=aspnetcore-6.0)
 - [ASP.NET Core middleware Shawn Widermuth](https://www.youtube.com/watch?v=TqCshF0o0nE&t=42s)
 - [JSON serializer options](https://learn.microsoft.com/en-us/dotnet/standard/serialization/system-text-json/configure-options?pivots=dotnet-7-0#web-defaults-for-jsonserializeroptions)
+- [A ChatGPT convo for funzies](https://chat.openai.com/share/5cfcf298-0302-44e2-8f06-cb9016bc3b92)
 
 
 ## Running the project
